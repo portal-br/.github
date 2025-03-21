@@ -23,4 +23,4 @@ O Portal Modelo, em sua versão 4, é uma ferramenta de portais para casas legis
 
 ## Acesso de escrita aos repositórios
 
-Caso queira colaborar com código, documentação, design em um dos produtos que temos nessa organização, por favor, crie um [Ticket](https://github.com/portal-br/portal-br/issues/new/choose).
+Caso queira colaborar com código, documentação, design em um dos produtos que temos nessa organização, por favor, crie um [Ticket](https://github.com/portal-br/tarefas/issues/new/choose).
